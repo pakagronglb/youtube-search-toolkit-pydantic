@@ -1,5 +1,7 @@
 # YouTube Search Toolkit
 
+---
+
 <img width="519" alt="Screenshot 2025-03-28 at 07 57 11" src="https://github.com/user-attachments/assets/5433608e-3736-4ea1-b1be-a9ff62235d00" />
 
 <img width="1021" alt="Screenshot 2025-03-28 at 07 57 25" src="https://github.com/user-attachments/assets/7c4a2b21-4df0-44af-9abe-8b5b3e497463" />
@@ -8,6 +10,7 @@
 
 <img width="849" alt="Screenshot 2025-03-28 at 08 12 15" src="https://github.com/user-attachments/assets/2b19b4f8-1020-45bd-9c01-6a98801b3e3b" />
 
+---
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-black.svg?logo=openai&logoColor=white)
